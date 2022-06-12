@@ -32,7 +32,7 @@ PreloadWeight=0
 
 [Containments][1][Applets][2][Configuration][General]
 isInLatteDock=true
-launchers59=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,applications:vivaldi-stable.desktop,applications:org.kde.discover.desktop,applications:synaptic.desktop,applications:org.kde.konsole.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:code.desktop,file:///usr/share/applications/discord-canary.desktop,applications:org.kde.kcalc.desktop,applications:org.kde.kwrite.desktop,applications:org.kde.spectacle.desktop,applications:org.kde.kdenlive.desktop
+launchers59=applications:org.kde.dolphin.desktop,applications:systemsettings.desktop,applications:vivaldi-stable.desktop,applications:org.kde.discover.desktop,applications:org.kde.konsole.desktop,applications:org.kde.plasma-systemmonitor.desktop,applications:code.desktop,applications:org.kde.kcalc.desktop,applications:org.kde.kwrite.desktop,applications:org.kde.spectacle.desktop,file:///latte-separator1.desktop
 manualScrollTasksType=Disabled
 
 [Containments][1][Applets][3]
@@ -40,7 +40,25 @@ immutability=1
 plugin=org.kde.plasma.analogclock
 
 [Containments][1][Applets][3][Configuration]
-PreloadWeight=39
+PreloadWeight=0
+
+[Containments][1][Applets][3][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][1][Applets][4]
+immutability=1
+plugin=org.kde.plasma.trash
+
+[Containments][1][Applets][4][Configuration]
+PreloadWeight=0
+
+[Containments][1][Applets][5]
+immutability=1
+plugin=org.kde.latte.separator
+
+[Containments][1][Applets][5][Configuration]
+PreloadWeight=0
 
 [Containments][1][ConfigDialog]
 DialogHeight=600
@@ -52,7 +70,7 @@ PreloadWeight=0
 [Containments][1][General]
 advanced=false
 alignmentUpgraded=true
-appletOrder=2;3
+appletOrder=2;5;3;4
 backgroundAllCorners=true
 backgroundRadius=20
 blurEnabled=false
