@@ -3,6 +3,8 @@ My configuration that I do in Linux distros
 
 # `🖥️` Kde Plasma
 The configs are inside the `kde-plasma` folder on this repo, imagine this folder as your `/home/user/`
+
+You can refer to the Kde config files in this repo: [See repo](https://github.com/shalva97/kde-configuration-files)
 ## Top Panel
 * [Go to config](https://github.com/astindev/dotfiles/blob/main/kde-plasma/.config/plasma-org.kde.plasma.desktop-appletsrc)
 
