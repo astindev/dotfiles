@@ -14,7 +14,7 @@ You can refer to the Kde config files in this repo: [See repo](https://github.co
 ## Latte Dock
 Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids.
 * [Installation](https://github.com/KDE/latte-dock#installation)
-* **Icons:** Whitesur-dark
+* **Icons:** Papirus Dark
 
 > ### Preview
-> ![image](https://user-images.githubusercontent.com/52360869/173231555-f6680d6d-e306-4ec9-a9d0-2463cccc2f97.png)
+> ![image](https://user-images.githubusercontent.com/52360869/173906701-01f47f62-1e69-4989-984d-ce34d4c80c49.png)
