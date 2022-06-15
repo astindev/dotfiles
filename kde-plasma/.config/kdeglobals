@@ -138,11 +138,15 @@ ForegroundVisited=120,120,120
 [General]
 AccentColor=29,94,233
 BrowserApplication=vivaldi-stable.desktop
+ColorScheme=WhiteSurDark
 ColorSchemeHash=79296561e8832ef612d7c1138272b1e03e6ba66d
 toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0
 
+[Icons]
+Theme=Papirus-Dark
+
 [KDE]
-LookAndFeelPackage=com.github.vinceliuice.WhiteSur-dark
+LookAndFeelPackage=org.kde.breezedark.desktop
 
 [KFileDialog Settings]
 Allow Expansion=false
