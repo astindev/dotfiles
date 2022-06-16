@@ -10,7 +10,8 @@ You can refer to the Kde config files in this repo: [See repo](https://github.co
 * [Go to config](https://github.com/astindev/dotfiles/blob/main/kde-plasma/.config/plasma-org.kde.plasma.desktop-appletsrc)
 
 > ### Preview
-> ![image](https://user-images.githubusercontent.com/52360869/173232859-f8a65768-cc7d-4ec0-b9ea-4a0c6fa7700c.png)
+> ![image](https://user-images.githubusercontent.com/52360869/174035781-71766679-b27b-45df-9b96-e154f8767849.png)
+
 
 ## Latte Dock
 Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids.
