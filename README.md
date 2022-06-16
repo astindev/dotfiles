@@ -1,6 +1,7 @@
 # `⚙️` Dotfiles
+
 My configuration that I do in Linux distros
-The desktop environment settings are inside the `kde-plasma` or `gnome` folder in this repo, imagine these folders as your `/home/user/`.
+> The desktop environment settings are inside the `kde-plasma` or `gnome` folder in this repo, imagine these folders as your `/home/user/`.
 
 # `🖥️` Kde Plasma
 
