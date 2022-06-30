@@ -1,0 +1,40 @@
+[Desktop Entry]
+Version=1.0
+Name=Firefox Beta
+Name[en_US]=Firefox Beta
+Comment=Browse the Web
+Comment[en_US]=Browse the Web
+Comment[pt]=Navegue na Internet
+Comment[pt_BR]=Navegue na Internet
+GenericName=Web Browser
+GenericName[en_US]=Web Browser
+GenericName[pt]=Navegador Web
+GenericName[pt_BR]=Navegador Web
+Actions=new-window;new-private-window;profile-manager-window;
+Categories=Network;WebBrowser;
+Exec=/usr/bin/firefox-beta %u
+Icon=firefox-beta
+Keywords=web;browser;internet;
+MimeType=text/html;application/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;
+Path=/usr/lib64/firefox-beta
+StartupNotify=true
+Terminal=false
+Type=Application
+
+[Desktop Action new-window]
+Exec=firefox-beta --new-window %u
+Name[en_US]=New Window
+Name=Open a New Window
+Name[pt_BR]=Nova janela
+Name[pt_PT]=Nova janela
+
+[Desktop Action new-private-window]
+Exec=firefox-beta --private-window %u
+Name[en_US]=New Private Window
+Name=Open a New Private Window
+Name[pt_BR]=Nova janela privativa
+Name[pt_PT]=Nova janela privada
+
+[Desktop Action profile-manager-window]
+Exec=firefox-beta --ProfileManager
+Name=Open the Profile Manager
