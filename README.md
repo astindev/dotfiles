@@ -19,4 +19,4 @@ Latte is a dock based on plasma frameworks that provides an elegant and intuitiv
 * **Icons:** Papirus Dark
 
 > ### Preview
-> ![image](https://user-images.githubusercontent.com/52360869/173906701-01f47f62-1e69-4989-984d-ce34d4c80c49.png)
+> ![image](https://user-images.githubusercontent.com/52360869/176720663-bd715c24-3789-4492-bd4a-d69191e309df.png)
