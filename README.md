@@ -10,7 +10,7 @@ You can refer to the Kde config files in this repo: [See repo](https://github.co
 * [Go to config](https://github.com/astindev/dotfiles/blob/main/kde-plasma/.config/plasma-org.kde.plasma.desktop-appletsrc)
 
 > ### Preview
-> ![image](https://user-images.githubusercontent.com/52360869/174035781-71766679-b27b-45df-9b96-e154f8767849.png)
+> ![image](https://user-images.githubusercontent.com/52360869/176721928-4e3d3330-406d-4456-9313-74ac6aa93912.png)
 
 
 ## Latte Dock
