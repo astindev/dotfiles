@@ -1,0 +1,46 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAboAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAAwAAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+eDP-1 Height 1920x1080=508
+eDP-1 Width 1920x1080=595
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=balenaEtcher-1.7.9-x64.AppImage,file:$HOME/Downloads/firefox/firefox,file:$HOME/Downloads/balena-etcher-electron-1.7.9-linux-x64/balenaEtcher-1.7.9-x64.AppImage
+Recent URLs[$e]=file:$HOME/Downloads/balena-etcher-electron-1.7.9-linux-x64/,file:$HOME/Downloads/firefox/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+HDMI-1 Height 2560x1080=453
+HDMI-1 Width 2560x1080=439
+eDP-1 Height 1920x1080=458
+eDP-1 Width 1920x1080=410
+
+[PlasmaViews][Panel 2]
+alignment=132
+panelOpacity=2
+
+[PlasmaViews][Panel 2][Defaults]
+maxLength=2560
+minLength=2560
+thickness=22
+
+[PlasmaViews][Panel 2][Horizontal1920]
+maxLength=1920
+minLength=1920
+thickness=22
+
+[PlasmaViews][Panel 2][Horizontal2560]
+maxLength=2560
+minLength=2560
+thickness=22
+
+[ScreenConnectors]
+0=HDMI-1
+1=eDP-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/00-start-here-2.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

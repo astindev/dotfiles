@@ -1,0 +1,58 @@
+[CreateDialog]
+LastMimeType=application/zip
+
+[ExtractDialog]
+DirHistory[$e]=$HOME/Games/Heroic/
+HDMI-1 Height 2560x1080=560
+HDMI-1 Width 2560x1080=1605
+eDP-1 Height 1920x1080=560
+eDP-1 Width 1920x1080=1280
+
+[General]
+Version=201
+ViewPropsTimestamp=2022,6,10,14,1,42.875
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=My Layout.layout.latte,file:$HOME/Games/Heroic,file:$HOME/.config/latte/My Layout.layout.latte
+Recent URLs[$e]=file:$HOME/.config/latte/,file:$HOME/Games/Heroic/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+HDMI-1 Height 2560x1080=458
+HDMI-1 Width 2560x1080=443
+eDP-1 Height 1920x1080=458
+eDP-1 Width 1920x1080=393
+
+[MainWindow]
+HDMI-1 Height 1280x720=669
+HDMI-1 Height 1920x1080=887
+HDMI-1 Height 2560x1080=1029
+HDMI-1 Height 640x480=429
+HDMI-1 Width 1280x720=1280
+HDMI-1 Width 1920x1080=1398
+HDMI-1 Width 2560x1080=1280
+HDMI-1 Width 640x480=640
+HDMI-1 XPosition 2560x1080=213
+HDMI-1 YPosition 2560x1080=187
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=655
+eDP-1 Height 320x180=201
+eDP-1 Height 800x600=546
+eDP-1 Width 1920x1080=1471
+eDP-1 Width 320x180=312
+eDP-1 Width 800x600=792
+eDP-1 XPosition 1920x1080=344
+eDP-1 YPosition 1920x1080=149
+
+[Notification Messages]
+ConfirmDelete=true
+
+[Open-with settings]
+CompletionMode=1
+History=kwr,write,writ,gpg,gp
+
+[Search]
+Location=Everywhere
