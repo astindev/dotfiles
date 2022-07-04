@@ -4,8 +4,12 @@ My configuration that I do in Linux distros
 > The desktop environment settings are inside the `kde-plasma` or `gnome` folder in this repo, imagine these folders as your `/home/user/`.
 
 > You can use [konsave](https://github.com/prayag2/konsave) to make a quick backup of all your desktop environment settings.
-# `🖥️` Kde Plasma
 
+# `🦊` Firefox
+* [Go to configs](https://github.com/astindev/dotfiles/blob/main/.mozilla/firefox/profile/)
+![image](https://user-images.githubusercontent.com/52360869/177220911-bf9d7e71-2262-4dac-af3a-cb4a677a390c.png)
+
+# `🖥️` Kde Plasma
 You can refer to the Kde config files in this repo: [See repo](https://github.com/shalva97/kde-configuration-files)
 ## Top Panel
 * [Go to config](https://github.com/astindev/dotfiles/blob/main/kde-plasma/.config/plasma-org.kde.plasma.desktop-appletsrc)
